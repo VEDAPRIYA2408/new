@@ -1,0 +1,38 @@
+
+section{
+	background-color: #ADD8E6;
+	margin: 50px;
+	height: 25%;
+	width: 25%;
+	border: 3px solid black;
+}
+h1{
+	width: 100%;
+	size: 50%;
+	text-align: center;
+}
+.sec1 {
+	background-color:#FFDAB9;
+	height: 10%;
+	width: 25%;
+	position: relative;
+	left: 74%;
+	bottom: 80%;
+
+}
+.sec2 {
+	background-color: #00FF7F;
+	height: 10%;
+	width: 15%;
+	position: relative;
+	left: 84%;
+
+
+}
+.sec3 {
+	background-color: #DDA0DD;
+	height: 10%;
+	width: 15%;
+	position: relative;
+	left: 84%;
+}
